@@ -50,6 +50,6 @@ Tools
 Python, pandas, SciPy, Matplotlib, Jupyter
 
 Files
-Project2-PassVsRun.ipynb: the analysis notebook (rename to match your notebook)
+`project2-Pass_vs_Run.ipynb`: the analysis notebook
 epa_by_down.png: the chart
 README.md: this file
